@@ -1,0 +1,2 @@
+# LogicalFunctionSimplifier
+論理関数をクワイン・マクラスキ法により簡約化するプログラム
